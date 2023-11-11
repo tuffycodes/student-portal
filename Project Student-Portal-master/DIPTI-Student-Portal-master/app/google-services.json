@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "204025091494",
+    "project_id": "dipti-student-portal",
+    "storage_bucket": "dipti-student-portal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204025091494:android:27d629afb0acc77cee2b67",
+        "android_client_info": {
+          "package_name": "com.example.diptistudentportal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFi8jTs5ZMtV_4x2MCK7UNsNlXh1vLpZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
